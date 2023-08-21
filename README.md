@@ -12,8 +12,7 @@
  #### My hobbies are playing chess and reading books.
  ##### email - harshalsonwane5556@gmail.com
 #### My favorite Dsa playlist
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/)
-<a href="https://www.youtube.com/" target="_blank"><img src="https://drive.google.com/file/d/1jgMq_et7AnBaR2WTTBxCnvI4Resues_9/view?usp=sharing" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+![Screenshot 2023-08-21 154858](https://github.com/Hrshalhack/Harshal-sonwane/assets/112231198/4f55504c-103a-42c9-8ea2-0a98657b0a08)
  #### see my projects.
 
 
