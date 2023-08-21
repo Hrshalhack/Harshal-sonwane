@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harshal Sonwane</h1>
 <h3 align="center">Full stack java developer</h3>
 I am engineering graduate of 2023 batch, currently i'm learning @full stack java development on codeacademy. I am also good in Dsa and coding.
-- 🌱 I’m currently learning **java full stack development**
+- 🌱 I’m currently learning java full stack development
 
 - 💬 Ask me about **coding, frontend, backend, git, github**
 
-- 📫 How to reach me **harshalsonwane5556@gmail.com
--  My hobbies are playing chess and reading books**
+- 📫 How to reach me harshalsonwane5556@gmail.com
+-  My hobbies are playing chess and reading books
 
 - ⚡ Fun fact **I think i am funny**
 
